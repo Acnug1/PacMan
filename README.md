@@ -1,5 +1,5 @@
 ##### Название проекта: 
-# Pacman
+# PacMan
 ##### Ссылка на яндекс диск с билдом игры (версия Unity: 2020.1.0f1):
 <https://disk.yandex.ru/d/-i4b7L0rVuNJCg>
 <br/>
